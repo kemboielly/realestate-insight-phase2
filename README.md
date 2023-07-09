@@ -11,5 +11,5 @@ Imagine working with a real estate agency that assists homeowners in buying and 
 
 This project uses the King County House Sales dataset, which can be found in  `kc_house_data.csv` in the data folder in this assignment's GitHub repository. The description of the column names can be found in `column_names.md` in the same folder. 
 
-### Methods
+### Approach
 I have used Linear Regression alogrithm to calculate the train data and test to also check if the data is overfitted or underfitted 
