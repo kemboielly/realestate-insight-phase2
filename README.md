@@ -13,3 +13,6 @@ This project uses the King County House Sales dataset, which can be found in  `k
 
 ### Approach
 I have used Linear Regression alogrithm to calculate the train data and test to also check if the data is overfitted or underfitted 
+
+### Conclusions
+We've concluded that there are some variables that needs to be considered when determining the pricing of homes
